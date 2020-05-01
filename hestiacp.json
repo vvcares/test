@@ -3,8 +3,8 @@
   "description": "Updates the hestiaCP theme to an enhanced version.",
   "version": "0.1.0",
   "min-hestia": "0.9.8",
-  "repository": "https://github.com/jhmaverick/vestoid-theme",
-  "homepage": "https://github.com/jhmaverick/vestoid-theme#readme",
+  "repository": "https://github.com/vvcares/test",
+  "homepage": "https://github.com/vvcares/test#readme",
   "author": {
     "name": "João Henrique",
     "email": "joao_henriquee@outlook.com",
